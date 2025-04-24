@@ -44,7 +44,7 @@ A fullstack manga database application built with **Flutter** for the frontend a
 
 ## 🚀 Getting Started
 
-### 🧩 Requirements
+###   Requirements
 
 - Flutter SDK
 - PHP Server (e.g. XAMPP, Laragon, or live server)
@@ -67,4 +67,8 @@ cd flutter_app
 flutter pub get
 flutter run
 ```
+
+### sc
+ ![image](https://github.com/user-attachments/assets/cdf42c13-01aa-4182-bc2b-939ad9f4d97b)
+
 
