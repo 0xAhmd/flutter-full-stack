@@ -2,9 +2,9 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:liquid_pull_to_refresh/liquid_pull_to_refresh.dart';
-import 'package:manga_db/constants.dart';
-import 'package:manga_db/services/fetch_manga.dart';
-import 'package:manga_db/models/manga_model.dart';
+import '../constants.dart';
+import '../services/fetch_manga.dart';
+import '../models/manga_model.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
