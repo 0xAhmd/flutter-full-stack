@@ -32,7 +32,7 @@ A fullstack manga database application built with **Flutter** for the frontend a
 
 ---
 
-## 🧱 Technologies Used
+## Technologies Used
 
 | Layer      | Tech Stack          |
 |------------|---------------------|
@@ -44,7 +44,7 @@ A fullstack manga database application built with **Flutter** for the frontend a
 
 ## 🚀 Getting Started
 
-###   Requirements
+### Requirements
 
 - Flutter SDK
 - PHP Server (e.g. XAMPP, Laragon, or live server)
